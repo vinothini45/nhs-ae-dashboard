@@ -33,4 +33,4 @@ A live data dashboard showing 15 years of NHS England A&E waiting time data.
 
 ## 👩‍💻 Author
 Vinothini — aspiring Data Analyst
-[LinkedIn](https://www.linkedin.com/in/yourprofile)
+[LinkedIn](https://www.linkedin.com/in/vinothini-krishnasamy-33303921b/)
